@@ -1,0 +1,9 @@
+# deadzone-rogue2-trainer runtime deps
+pywin32==306
+pymem==1.13.1
+pyMeow==0.5.0
+keyboard==0.13.5
+requests==2.32.3
+rich==13.9.4
+tomli==2.2.1
+colorama==0.4.6

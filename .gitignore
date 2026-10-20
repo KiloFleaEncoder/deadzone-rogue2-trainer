@@ -1,0 +1,29 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# trainer runtime
+logs/
+*.log
+config/local.toml
+saves/*.bak
+dumps/*.bin
+dumps/*.json !dumps/schema.json
+
+# ide / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# build
+build/
+dist/
+*.spec

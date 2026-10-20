@@ -1,0 +1,21 @@
+poll_hz = 60
+log_level = "INFO"
+
+[process]
+name = "DeadzoneRogue2-Win64-Shipping.exe"
+
+[hotkeys]
+menu = "INSERT"
+aimbot = "F1"
+esp = "F2"
+god = "F3"
+no_recoil = "F4"
+speedhack = "F5"
+
+[features]
+aimbot = true
+esp = true
+god_mode = false
+no_recoil = true
+speedhack = false
+infinite_ammo = true
